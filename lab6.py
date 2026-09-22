@@ -1,5 +1,3 @@
- """Implementacao dos exercicios do Laboratorio 6 de CC8550."""
-
 from math import inf
 
 
